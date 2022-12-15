@@ -13,3 +13,9 @@ The game ends when someone guesses the secret number. Can you figure out what it
 3. If your guess is too high or too low, the game 3. engine will give you a hint.
 4. Keep guessing until you hit the secret number and win the game!
 Good luck and have fun!
+
+## Where to play the game?
+You can play the game here:
+
+https://jogo-numero-secreto-eta-azure.vercel.app/
+
