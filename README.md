@@ -8,8 +8,8 @@ To play the game, use the computer microphone to input your guess. If the number
 The game ends when someone guesses the secret number. Can you figure out what it is?
 
 ## How to Play
-Open the game in your web browser.
-Use the computer microphone to input your guess.
-If your guess is too high or too low, the game engine will give you a hint.
-Keep guessing until you hit the secret number and win the game!
+1. Open the game in your web browser.
+2. Use the computer microphone to input your guess.
+3. If your guess is too high or too low, the game 3. engine will give you a hint.
+4. Keep guessing until you hit the secret number and win the game!
 Good luck and have fun!
